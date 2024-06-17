@@ -71,6 +71,9 @@ class Solution {
 - If no such pair is found by the end of the loop, it returns `false`.
 
 This method effectively checks if a given integer `c` can be expressed as the sum of two squares.
+
+
+
 **APPROACH - 2**
 Let's perform a dry run of the `judgeSquareSum` method in the `Solution` class with a specific example, say `c = 5`.
 
